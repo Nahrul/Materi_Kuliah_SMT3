@@ -1,0 +1,7 @@
+CREATE TABLE Pegawai (
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	Nama VARCHAR(50),
+	Usia INT(5),
+	Gaji INT(100),
+	Departemen VARCHAR(100)
+)
